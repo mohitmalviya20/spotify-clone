@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+live site : https://loving-haibt-395255.netlify.app
 
 ## Available Scripts
 
