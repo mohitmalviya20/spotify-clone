@@ -14,7 +14,8 @@ function Body({ spotify }) {
         <div className="body_infoText">
           <strong>PLAYLIST</strong>
           <h2>Discover Weekly</h2>
-          <p>{discover_weekly?.description}</p>
+          <p>Love a new track you just heard? Click the “heart” icon next to the song on mobile or desktop, and there will be more where that came from down the road.</p>
+
         </div>
       </div>
       <div className="body_songs">
